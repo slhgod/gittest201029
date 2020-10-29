@@ -14,6 +14,7 @@
 <h3>commit 후 수정</h3>
 <h3>commit 후 수정</h3>
     <h3>commit 후 수정</h3>
-<h4>eclipse 충돌test</h4>    
+<h4>eclipse 충돌test</h4> 
+    <h3>git 충돌 test</h3>   
 </body>
 </html>
